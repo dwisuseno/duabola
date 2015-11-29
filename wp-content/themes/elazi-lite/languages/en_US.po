@@ -1,0 +1,618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elazi Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jul 24 2015 16:02:51 GMT+0700 (ICT)\n"
+"PO-Revision-Date: Mon Sep 21 2015 11:35:03 GMT+0700 (ICT)\n"
+"Last-Translator: admin <longbsvnu@gmail.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../archive.php:20
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:23
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:23
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:26
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:29
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Pingback"
+msgstr ""
+
+#: ../comments.php:60 ../comments.php:88
+msgid " at "
+msgstr ""
+
+#: ../comments.php:65 ../comments.php:93
+msgid "Edit"
+msgstr ""
+
+#: ../comments.php:116
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:120
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:124
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:130
+msgid "Your comments*"
+msgstr ""
+
+#: ../comments.php:136
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr ""
+
+#: ../comments.php:136
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:136
+msgid "Log out <i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: ../comments.php:141
+msgid ""
+"<i class=\"fa fa-comments pull-left\"></i><span class=\"pull-left\">Leave a "
+"comment</span>"
+msgstr ""
+
+#: ../comments.php:142
+msgid "Post Comment"
+msgstr ""
+
+#: ../content.php:29
+msgid "By: "
+msgstr ""
+
+#: ../header.php:107
+msgid "Enter your search term..."
+msgstr ""
+
+#: ../page.php:51 ../single.php:67
+msgid "Tag"
+msgstr ""
+
+#: ../single.php:51
+msgid "Pages:"
+msgstr ""
+
+#: ../single.php:57
+msgid "Next page"
+msgstr ""
+
+#: ../single.php:58
+msgid "Previous page"
+msgstr ""
+
+#: ../inc/customize.php:14
+msgid "Favicon"
+msgstr ""
+
+#: ../inc/customize.php:18
+msgid "Headline"
+msgstr ""
+
+#: ../inc/customize.php:22
+msgid "Logo"
+msgstr ""
+
+#: ../inc/customize.php:26
+msgid "Banner"
+msgstr ""
+
+#: ../inc/customize.php:30 ../inc/customize.php:135
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../inc/customize.php:34
+msgid "Single"
+msgstr ""
+
+#: ../inc/customize.php:38
+msgid "Socials"
+msgstr ""
+
+#: ../inc/customize.php:42 ../inc/customize.php:233
+msgid "Copyright"
+msgstr ""
+
+#: ../inc/customize.php:46 ../inc/customize.php:243
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/customize.php:52 ../inc/customize.php:84
+msgid "Logo Top"
+msgstr ""
+
+#: ../inc/customize.php:62
+msgid "Status"
+msgstr ""
+
+#: ../inc/customize.php:74
+msgid "Number of posts headline"
+msgstr ""
+
+#: ../inc/customize.php:86
+msgid "Recommend size ( 385 x 62 )."
+msgstr ""
+
+#: ../inc/customize.php:93
+msgid "Logo Bottom"
+msgstr ""
+
+#: ../inc/customize.php:95
+msgid "Recommend size ( 291 x 74 )."
+msgstr ""
+
+#: ../inc/customize.php:104
+msgid "Banner Image"
+msgstr ""
+
+#: ../inc/customize.php:106
+msgid "Recommend size ( 728 x 90 )."
+msgstr ""
+
+#: ../inc/customize.php:113
+msgid "Banner URL"
+msgstr ""
+
+#: ../inc/customize.php:121
+msgid "Target"
+msgstr ""
+
+#: ../inc/customize.php:149
+msgid "Featured Image"
+msgstr ""
+
+#: ../inc/customize.php:161
+msgid "About Author"
+msgstr ""
+
+#: ../inc/customize.php:173
+msgid "Other Posts"
+msgstr ""
+
+#: ../inc/customize.php:185
+msgid "Related Posts"
+msgstr ""
+
+#: ../inc/customize.php:199
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/customize.php:207
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/customize.php:215
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/customize.php:223
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../inc/front-end.php:17
+msgid "Top Menu"
+msgstr ""
+
+#: ../inc/front-end.php:18
+msgid "Main Menu"
+msgstr ""
+
+#: ../inc/front-end.php:19
+msgid "Bottom Menu"
+msgstr ""
+
+#: ../inc/front-end.php:84
+msgid "Top Sidebar"
+msgstr ""
+
+#: ../inc/front-end.php:93
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/front-end.php:102
+msgid "Footer Left Sidebar"
+msgstr ""
+
+#: ../inc/front-end.php:111
+msgid "Footer Center Sidebar"
+msgstr ""
+
+#: ../inc/front-end.php:120
+msgid "Footer Right Sidebar"
+msgstr ""
+
+#: ../inc/front-end.php:169
+msgid "Breaking News"
+msgstr ""
+
+#: ../inc/front-end.php:218
+msgid "You are here: "
+msgstr ""
+
+#: ../inc/front-end.php:224
+msgid "Home"
+msgstr ""
+
+#: ../inc/front-end.php:275
+#, php-format
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: ../inc/front-end.php:280
+#, php-format
+msgid "Searched for \"%s\" return %s results"
+msgstr ""
+
+#: ../inc/front-end.php:304
+msgid "Page not found"
+msgstr ""
+
+#: ../inc/front-end.php:306
+msgid "Latest News"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:25 ../inc/widgets/comments-lists.php:35 ..
+#: inc/widgets/contact-information.php:37 ../inc/widgets/lists-users-carousel.
+#: php:32 ../inc/widgets/lists-users.php:32
+msgid "Title:"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:30
+msgid "Number of posts:"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:35
+msgid "Excerpt lenght:"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:40
+msgid "Order by:"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:44
+msgid "Latest news"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:45
+msgid "Most comments"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:46
+msgid "Random"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:58
+msgid "Categories:"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:60 ../inc/lib/widget-master.php:78 ..
+#: inc/widgets/lists-users-carousel.php:41 ../inc/widgets/lists-users.php:41
+msgid "All"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:76
+msgid "Tags:"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:94
+msgid "Format:"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:96 ../inc/lib/widget-master.php:133
+msgid "-- All --"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:112
+msgid "Combine condition by <i>Tags</i>, <i>Categories</i>, <i>Format</i>"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:116
+msgid "And"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:117
+msgid "Or"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:129
+msgid "In:"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:129
+msgid "(require Wordpress 3.7+)"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:134
+msgid "1 week"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:135
+msgid "2 weeks"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:136
+msgid "3 weeks"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:137
+msgid "1 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:138
+msgid "2 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:139
+msgid "3 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:140
+msgid "4 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:141
+msgid "5 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:142
+msgid "6 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:143
+msgid "7 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:144
+msgid "8 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:145
+msgid "9 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:146
+msgid "10 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:147
+msgid "11 months"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:148
+msgid "1 year"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:149
+msgid "2 years"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:150
+msgid "3 years"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:151
+msgid "4 years"
+msgstr ""
+
+#: ../inc/lib/widget-master.php:152
+msgid "5 years"
+msgstr ""
+
+#: ../inc/template/about-author.php:11
+msgid "About the author"
+msgstr ""
+
+#: ../inc/template/navigation.php:7
+msgid "Previous Article"
+msgstr ""
+
+#: ../inc/template/navigation.php:8
+msgid "Next Article"
+msgstr ""
+
+#: ../inc/template/navigation.php:17 ../inc/template/navigation.php:31
+msgid "(no_title)"
+msgstr ""
+
+#: ../inc/template/related-posts.php:53
+msgid "Related Post"
+msgstr ""
+
+#: ../inc/widgets/articles-lists-first-big-thumb.php:7
+msgid "Display articles list, first post big thumb."
+msgstr ""
+
+#: ../inc/widgets/articles-lists-first-big-thumb.php:9
+msgid "[Elazi - Lite] Articles Lists - First Post Big Thumb"
+msgstr ""
+
+#: ../inc/widgets/articles-lists-first-big-thumb.php:53 ../inc/widgets/articles-
+#: lists-first-big-thumb.php:78 ../inc/widgets/articles-lists.php:50
+msgid "By:"
+msgstr ""
+
+#: ../inc/widgets/articles-lists-vertical-slider.php:7
+msgid "Display articles lists vertical slider."
+msgstr ""
+
+#: ../inc/widgets/articles-lists-vertical-slider.php:9
+msgid "[Elazi - Lite] Articles Lists - Vertical Slider"
+msgstr ""
+
+#: ../inc/widgets/articles-lists.php:6
+msgid "Display articles lists."
+msgstr ""
+
+#: ../inc/widgets/articles-lists.php:8
+msgid "[Elazi - Lite] Articles Lists"
+msgstr ""
+
+#: ../inc/widgets/comments-lists.php:7
+msgid "Display recent comment of your site."
+msgstr ""
+
+#: ../inc/widgets/comments-lists.php:9
+msgid "[Elazi - Lite] Comments Lists"
+msgstr ""
+
+#: ../inc/widgets/comments-lists.php:40
+msgid "Order:"
+msgstr ""
+
+#: ../inc/widgets/comments-lists.php:44
+msgid "ASC"
+msgstr ""
+
+#: ../inc/widgets/comments-lists.php:45
+msgid "DESC"
+msgstr ""
+
+#: ../inc/widgets/comments-lists.php:57
+msgid "Number of Comments:"
+msgstr ""
+
+#: ../inc/widgets/comments-lists.php:100
+msgid "On"
+msgstr ""
+
+#: ../inc/widgets/comments-lists.php:116
+msgid "No comments."
+msgstr ""
+
+#: ../inc/widgets/contact-information.php:7
+msgid "Display your contact information."
+msgstr ""
+
+#: ../inc/widgets/contact-information.php:9
+msgid "[Elazi - Lite] Contact Information"
+msgstr ""
+
+#: ../inc/widgets/contact-information.php:42
+msgid "Address:"
+msgstr ""
+
+#: ../inc/widgets/contact-information.php:47
+msgid "Phone:"
+msgstr ""
+
+#: ../inc/widgets/contact-information.php:52
+msgid "Email:"
+msgstr ""
+
+#: ../inc/widgets/lists-users-carousel.php:6
+msgid "Display list users carousel."
+msgstr ""
+
+#: ../inc/widgets/lists-users-carousel.php:8
+msgid "[Elazi - Lite] List User Carousel"
+msgstr ""
+
+#: ../inc/widgets/lists-users-carousel.php:37 ../inc/widgets/lists-users.php:37
+msgid "Select group"
+msgstr ""
+
+#: ../inc/widgets/lists-users-carousel.php:42 ../inc/widgets/lists-users.php:42
+msgid "Administrator"
+msgstr ""
+
+#: ../inc/widgets/lists-users-carousel.php:43 ../inc/widgets/lists-users.php:43
+msgid "Author"
+msgstr ""
+
+#: ../inc/widgets/lists-users-carousel.php:44 ../inc/widgets/lists-users.php:44
+msgid "Editor"
+msgstr ""
+
+#: ../inc/widgets/lists-users-carousel.php:45 ../inc/widgets/lists-users.php:45
+msgid "Contributor"
+msgstr ""
+
+#: ../inc/widgets/lists-users-carousel.php:46 ../inc/widgets/lists-users.php:46
+msgid "Subscriber"
+msgstr ""
+
+#: ../inc/widgets/lists-users.php:6
+msgid "Display list users."
+msgstr ""
+
+#: ../inc/widgets/lists-users.php:8
+msgid "[Elazi - Lite] List User"
+msgstr ""
+
+#: ../inc/widgets/masonry-lists.php:7
+msgid "Display articles masonry."
+msgstr ""
+
+#: ../inc/widgets/masonry-lists.php:9
+msgid "[Elazi - Lite] Masonry Lists"
+msgstr ""
+
+#. Name of the theme
+msgid "Elazi Lite"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://kopatheme.com/freebies/elazi-best-free-magazine-theme/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Elazi magazine WordPress theme was designed to support the most effectively "
+"for writers who love sport, fashion, travel,cook or any purposes to share "
+"information, news, experiences, images. This theme also makes impressive for "
+"the viewers by simplicity style, vibrant color, clear code and responsive "
+"layout"
+msgstr ""
+
+#. Author of the theme
+msgid "Kopatheme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://kopatheme.com/"
+msgstr ""
