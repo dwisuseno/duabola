@@ -1,0 +1,316 @@
+/*Copyright (c) 2012 Hemn Chawroka
+
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+*/
+.iviewSlider {
+	overflow: hidden;
+}
+
+/* The timer in the Slider */
+#iview-timer {
+	position: absolute;
+	z-index: 100;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#iview-timer div {
+	border-radius: 3px;
+}
+
+/* The Preloader in the Slider */
+#iview-preloader {
+	position: absolute;
+	z-index: 1000;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: #000 1px solid;
+	padding: 1px;
+	width: 100px;
+	height: 3px;
+}
+#iview-preloader div {
+	float: left;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	height: 3px;
+	background: #000;
+	width: 0px;
+	margin-top:-1px
+}
+
+/* The strips and boxes in the Slider */
+.iview-strip {
+	display:block;
+	position:absolute;
+	z-index:5;
+}
+.iview-block {
+	display:block;
+	position:absolute;
+	z-index:5;
+}
+
+/* Direction nav styles (e.g. Next & Prev) */
+.iview-directionNav a {
+	position:absolute;
+	top:45%;
+	z-index:9;
+	cursor:pointer;
+}
+.iview-prevNav {
+	left:0px;
+}
+.iview-nextNav {
+	right:0px;
+}
+
+/* Control nav styles (e.g. 1,2,3...) */
+/*.iview-controlNav {
+	position:absolute;
+	z-index:9;
+}*/
+.iview-controlNav a {
+	z-index:9;
+	cursor:pointer;
+}
+.iview-controlNav a.active {
+	font-weight:bold;
+}
+.iview-controlNav .iview-items ul {
+	list-style: none;
+}
+.iview-controlNav .iview-items ul li {
+	display: inline;
+	position: relative;
+}
+.iview-controlNav .iview-tooltip {
+	position: absolute;
+}
+
+.iview-controlNav {
+	position: absolute;
+	height: 45px;
+	text-align: center;
+	background:rgba(0,0,0,.5);
+	border-radius: 0;
+	z-index:9;
+	bottom:0;
+	width:100%
+}
+
+.iview-controlNav .iview-items {
+	display: block;
+	padding: 0px 20px;
+}
+
+.iview-controlNav a img {
+	height: 30px;
+	border: #000 1px solid;
+	margin: 7px 7px 0px 0px;
+	border-radius: 2px;
+}
+
+.iview-controlNav a.active img {
+	border-color: #999;
+}
+
+/* The captions in the Slider */
+.iview-caption {
+	position:absolute;
+	z-index:4;
+	overflow: hidden;
+	cursor: default;
+}
+
+/* The video show in the Slider */
+.iview-video-show {
+	background: #000;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index:10
+}
+.iview-video-show .iview-video-container {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.iview-video-show .iview-video-container a.iview-video-close {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	background: #CCC;
+	color: #333;
+	height: 30px;
+	width: 30px;
+	text-align: center;
+	line-height: 36px;
+	font-size: 35px;
+	font-weight: bold;
+	overflow: hidden;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+.iview-video-show .iview-video-container a.iview-video-close:hover {
+	background: #fff;
+}
+#iview {
+	display: block;
+	max-width: 2000px;
+	min-width: 300px;
+	/*width:1664px;
+	height:450px;*/
+	background: #fff;
+	/*background: rgba(0, 0, 0, 0.3);*/
+	padding: 0;
+	border-radius: 1px;
+	position: relative;
+	/*-webkit-box-shadow: 0 38px 30px -18px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 38px 30px -18px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 38px 30px -18px rgba(0, 0, 0, 0.5);*/
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#iview .iviewSlider {
+	display: block;
+	width: 1664px;
+	height: 450px;;
+	overflow: hidden;
+	border-radius: 1px;
+}
+
+
+
+#iview div.iview-directionNav {
+	position: absolute;
+	top: 40%;
+	left: 0px;
+	z-index: 9;
+	width: 100%;
+}
+
+#iview div.iview-directionNav a {
+	display: block;
+	cursor: pointer;
+	position: absolute;
+	width: 40px;
+	height: 100px;
+	background-image: url(img/nav_paddles.png);
+	text-indent: -9999px;
+	-webkit-transition: left 0.3s ease-in-out;
+	-webkit-transition-property: left,right;
+	-moz-transition: left 0.3s ease-in-out;
+	-moz-transition-property: left,right;
+	-o-transition: left 0.3s ease-in-out;
+	-o-transition-property: left,right;
+	-ms-transition: left 0.3s ease-in-out;
+	-ms-transition-property: left,right;
+	transition: left 0.3s ease-in-out;
+	transition-property: left,right;
+}
+
+#iview div.iview-directionNav a.iview-nextNav {
+	right: -50px;
+	background-position: 56px 0;
+}
+
+#iview div.iview-directionNav a.iview-prevNav {
+	left: -50px;
+	background-position: -16px 0
+}
+
+#iview.iview-hover div.iview-directionNav a.iview-nextNav {
+	right: 20px;
+}
+
+#iview.iview-hover div.iview-directionNav a.iview-prevNav {
+	left: 20px;
+}
+
+.iview-caption {
+	color: #FFF;
+	border-radius: 3px;
+	font-family: Verdana;
+	font-size: 16px;
+}
+
+.iview-caption.caption1 {
+	text-shadow: none;
+}
+
+.iview-caption.caption2 {
+	background: #FFF;
+	color: #000;
+	text-shadow: none;
+}
+
+.iview-caption.caption3 {
+	background: #c4302b;
+	box-shadow: rgba(0, 0, 0, 0.7) 10px 10px 15px 0px;
+	text-shadow: none;
+}
+
+#iview-preloader {
+	border: #666 1px solid;
+	width: 150px
+}
+
+#iview-preloader div {
+	background: #666;
+}
+#iview-timer {
+	border-radius: 10px;
+}
+
+#iview-timer div {
+	border-radius: 10px;
+}
+
+	@media only screen and (min-width: 0) and (max-width: 980px) {
+		
+		}
+		@media only screen and (min-width: 0) and (max-width: 800px){
+		
+			}
+			
+		@media only screen and (min-width: 0) and (max-width: 670px) {
+			#iview div.iview-directionNav{ top: 10% !important}
+			}
+		@media only screen and (min-width: 0) and (max-width: 580px) {
+			
+}
+			
+		@media only screen and (min-width: 0) and (max-width: 360px) {
+			
+
+			}
+		@media only screen and (min-width: 0) and (max-width: 320px) {}
+	
+		
+		#iview .iview-caption{ opacity:0}
+		/*#iview .iview-video-show{ visibility:hidden; background:#FFF !important}*/
+		

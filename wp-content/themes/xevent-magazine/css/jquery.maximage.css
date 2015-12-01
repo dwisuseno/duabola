@@ -1,0 +1,89 @@
+/*	----------------------------------------------------------------
+	MaxCycle (Fullscreen Slideshow for use with jQuery Cycle Plugin)
+	----------------------------------------------------------------
+	
+	Demo at: http://www.aaronvanderzwan.com/maxcycle/
+	Download and Info at: http://github.com/akv2/MaxCycle---jQuery-Plugin/
+	Copyright (c) 2007-2011 Aaron Vanderzwan
+	Dual licensed under the MIT and GPL licenses.
+	
+*/
+/*! Version: 2.0.73 (12-Oct-2012) */
+
+html {overflow-x:hidden;}
+			body {margin:0;padding:0;}
+			#cycle-loader {
+				height:32px;
+				left:50%;
+				margin:-8px 0 0 -8px;
+				position:absolute;
+				top:50%;
+				width:32px;
+				z-index:999;
+			}
+			
+			/*I want to avoid jumpiness as the JS loads, so I initially hide my cycle*/
+			#maximage {
+				display:none;/* Only use this if you fade it in again after the images load */
+				position:fixed !important;
+			}
+			
+			/*Set my gradient above all images*/
+			#gradient {
+				left:0;
+				height:100%;
+				position:absolute;
+				top:0;
+				width:100%;
+				z-index:999;
+			}
+			video, object {
+				top:0;left:0;
+				position:absolute;
+			}
+			#maximage {
+				display:none;/* Only use this if you fade it in again after the images load */
+				position:fixed !important;
+			}
+.mc-hide-scrolls{
+	overflow:hidden;
+}
+
+body .mc-cycle {
+	height:100%;
+	left:0;
+	overflow:hidden;
+	position:fixed;
+	top:0;
+	width:100%;
+	z-index:-1;
+}
+
+div.mc-image {
+	/*NOTE: Mozilla flickers when fading and using 'all', so we have to be specific with what property we want to transition:
+	 	If you are using fading transitions, use 'opacity: */
+	-webkit-transition: opacity 1s ease-in-out; 
+	-moz-transition: opacity 1s ease-in-out; 
+	-o-transition: opacity 1s ease-in-out; 
+	transition: opacity 1s ease-in-out;
+	
+	/*If you are using horizontal slide transitions, use the following CSS:
+	-webkit-transition: left 1s ease-in-out; 
+	-moz-transition: left 1s ease-in-out; 
+	-o-transition: left 1s ease-in-out; 
+	transition: left 1s ease-in-out;*/
+	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position:center center;
+	background-repeat:no-repeat;
+	height:100%;
+	overflow:hidden;
+	width:100%;
+}
+
+.mc-old-browser .mc-image {
+	overflow:hidden;
+}

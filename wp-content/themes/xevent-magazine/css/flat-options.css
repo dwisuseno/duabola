@@ -1,0 +1,116 @@
+/*
+* xevents CSS DEMO SKIN OPTIONS.
+* xevents WordPress Theme 
+* Theme URI: http:/www.wpmeal.com/xevents
+*/
+#skin{
+	top:200px;
+	left:-189px;
+	position:fixed;
+	width:189px;
+	z-index:10000;
+}
+.skin-heading{
+	-webkit-border-radius:0px 3px 3px 0px;
+	border-radius:0px 3px 3px 0px;
+	color:#ffffff;
+	background:#2b2b2b;
+	padding:10px 11px 10px 20px;
+	margin-right:-40px;
+	font-size:14px;
+	font-weight:bold;
+	cursor:pointer;
+	-webkit-box-shadow:0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+	box-shadow:0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+	position:relative;
+	z-index:1;
+}
+.skin-options{
+	background:#373737;
+	-webkit-border-radius:0px 0px 3px 0px;
+	border-radius:0px 0px 3px 0px;
+	color:#ffffff;
+	-webkit-box-shadow:0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+	box-shadow:0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+	position:relative;
+	z-index:0;
+}
+.skin-list{
+	padding:10px 0px 10px 6px;
+	margin-bottom:5px;
+}
+.skin-list.last{
+	border:none;
+	margin-left:4px;
+	padding-right:4px;
+	clear:left
+}
+.skin-list ul{
+	list-style:none;
+	margin-left:0px;
+	padding-left:0px;
+}
+.skin-list li{
+	float:left;
+	margin:4px;
+}
+.txt{
+	color:#cccccc;
+	font-size:11px;
+	line-height:19px;
+}
+
+@media only screen and (max-width:979px){
+	#skin{
+		top:250px;
+	}
+}
+
+@media only screen and (max-width:767px){
+	#skin{
+		display:none;
+	}
+}
+
+.skin_button{
+	display: block;
+	width: 30px;
+	height: 30px;
+	overflow: hidden;
+}
+
+.buttton_green{background: #e42382;}
+.buttton_yellow{background: #ffd800;}
+.buttton_blue{background: #3598db;}
+.buttton_greendark{background: #1bbc9b;}
+.buttton_purple{background: #9b58b5;}
+.buttton_orange{background: #e77e23;}
+
+
+#skin {
+top: 200px;
+left: -189px;
+position: fixed;
+width: 189px;
+z-index: 10000;
+}    
+.skin_icon-ref:before {
+    content: "icon";
+}
+.icon {
+    color: #f1501a;
+}
+
+[class^="skin_icon-"], [class*=" skin_icon-"] {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    font-style: normal;
+    height: auto;
+    width: auto;
+}
+[class^="skin_icon-"], [class*=" skin_icon-"] {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}

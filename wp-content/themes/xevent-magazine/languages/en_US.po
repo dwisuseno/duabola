@@ -1,0 +1,3220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xevent\n"
+"POT-Creation-Date: 2015-07-04 12:47+0300\n"
+"PO-Revision-Date: 2015-07-04 12:54+0300\n"
+"Last-Translator: \n"
+"Language-Team: Xevent Team <support@wpmael.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inovate/404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../inovate/archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../inovate/archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../inovate/archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../inovate/archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../inovate/comments.php:36 ../inovate/comments.php:53
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../inovate/comments.php:37 ../inovate/comments.php:54
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../inovate/content-none.php:19 ../twentyfifteen/content-none.php:22
+#: ../twentyfourteen/content-none.php:18 ../twentythirteen/content-none.php:18
+#: ../xevent-magazine/content-none.php:16 ../xevents/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../inovate/content-page.php:18 ../inovate/content-single.php:31
+#: ../inovate/content.php:36 ../twentyfifteen/content-link.php:36
+#: ../twentyfifteen/content-page.php:25 ../twentyfifteen/content.php:38
+#: ../twentyfifteen/image.php:59 ../twentyfourteen/content-aside.php:53
+#: ../twentyfourteen/content-audio.php:53
+#: ../twentyfourteen/content-gallery.php:53
+#: ../twentyfourteen/content-image.php:53
+#: ../twentyfourteen/content-link.php:53 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:53
+#: ../twentyfourteen/content-video.php:53 ../twentyfourteen/content.php:61
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:30
+#: ../twentythirteen/content-gallery.php:31
+#: ../twentythirteen/content-image.php:30
+#: ../twentythirteen/content-link.php:31
+#: ../twentythirteen/content-quote.php:20
+#: ../twentythirteen/content-status.php:20
+#: ../twentythirteen/content-video.php:30 ../twentythirteen/content.php:48
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+msgid "Pages:"
+msgstr ""
+
+#: ../inovate/content-page.php:25 ../inovate/inc/template-tags.php:119
+#: ../magazine/home.php:89 ../twentyfifteen/content-link.php:56
+#: ../twentyfifteen/content-page.php:35 ../twentyfifteen/content-search.php:28
+#: ../twentyfifteen/content-search.php:33 ../twentyfifteen/content.php:57
+#: ../twentyfifteen/image.php:71 ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:27
+#: ../twentythirteen/content-aside.php:35
+#: ../twentythirteen/content-audio.php:38
+#: ../twentythirteen/content-chat.php:36
+#: ../twentythirteen/content-gallery.php:46
+#: ../twentythirteen/content-image.php:42
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:32
+#: ../twentythirteen/content-status.php:26
+#: ../twentythirteen/content-video.php:42 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../xevent-magazine/archive.php:150 ../xevent-magazine/content-aside.php:69
+#: ../xevent-magazine/content-audio.php:62
+#: ../xevent-magazine/content-gallery.php:61
+#: ../xevent-magazine/content-image.php:62
+#: ../xevent-magazine/content-link.php:65
+#: ../xevent-magazine/content-page.php:19
+#: ../xevent-magazine/content-quote.php:61
+#: ../xevent-magazine/content-video.php:64 ../xevent-magazine/content.php:65
+#: ../xevent-magazine/image.php:69 ../xevent-magazine/search.php:127
+#: ../xevents/archive.php:151 ../xevents/content-aside.php:70
+#: ../xevents/content-audio.php:63 ../xevents/content-gallery.php:62
+#: ../xevents/content-image.php:63 ../xevents/content-link.php:66
+#: ../xevents/content-page.php:20 ../xevents/content-quote.php:62
+#: ../xevents/content-video.php:65 ../xevents/content.php:66
+#: ../xevents/image.php:70 ../xevents/search.php:128
+msgid "Edit"
+msgstr ""
+
+#: ../inovate/content.php:29
+#, php-format
+msgid "Read More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inovate/footer.php:18 ../twentyfourteen/footer.php:21
+#: ../twentythirteen/footer.php:19
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../inovate/footer.php:18 ../twentyfifteen/footer.php:25
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../inovate/footer.php:20
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: ../inovate/functions.php:56 ../twentyfifteen/functions.php:85
+msgid "Primary Menu"
+msgstr ""
+
+#: ../inovate/functions.php:125
+msgid "Sidebar"
+msgstr ""
+
+#: ../inovate/functions.php:135
+msgid "Footer 1"
+msgstr ""
+
+#: ../inovate/functions.php:144
+msgid "Footer 2"
+msgstr ""
+
+#: ../inovate/functions.php:153
+msgid "Footer 3"
+msgstr ""
+
+#: ../inovate/functions.php:162
+msgid "Footer 4"
+msgstr ""
+
+#: ../inovate/search.php:16 ../twentyfifteen/search.php:18
+#: ../twentyfourteen/search.php:18 ../twentythirteen/search.php:18
+#: ../xevent-magazine/search.php:55 ../xevents/search.php:56
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inovate/admin/layout.php:108
+msgid "Section via hook"
+msgstr ""
+
+#: ../inovate/admin/layout.php:109
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array . Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../inovate/admin/layout.php:187
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inovate/admin/layout.php:204
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../inovate/admin/layout.php:205
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../inovate/admin/layout.php:206 ../xevent-magazine/biz/widgets.php:24
+#: ../xevents/biz/widgets.php:136
+msgid "Tags"
+msgstr ""
+
+#: ../inovate/admin/layout.php:211
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../inovate/admin/layout.php:211
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../inovate/admin/layout.php:235
+msgid "Home Settings"
+msgstr ""
+
+#: ../inovate/admin/layout.php:242
+msgid "Logo"
+msgstr ""
+
+#: ../inovate/admin/layout.php:250
+msgid "Upload the logo you want for your header"
+msgstr ""
+
+#: ../inovate/admin/layout.php:255
+msgid "Featured Image on Post"
+msgstr ""
+
+#: ../inovate/admin/layout.php:256
+msgid "Tick the box if you ant the featured Image to appear on the Post page"
+msgstr ""
+
+#: ../inovate/admin/layout.php:264
+msgid "Layout Settings"
+msgstr ""
+
+#: ../inovate/admin/layout.php:270
+msgid "Site Layout"
+msgstr ""
+
+#: ../inovate/admin/layout.php:273
+msgid "Select the Layout for your website posts and pages"
+msgstr ""
+
+#: ../inovate/admin/layout.php:287
+msgid "Slider Settings"
+msgstr ""
+
+#: ../inovate/admin/layout.php:294
+msgid "Enable Slider on Home"
+msgstr ""
+
+#: ../inovate/admin/layout.php:295
+msgid "This will enable slider on both the front page, and homepage."
+msgstr ""
+
+#: ../inovate/admin/layout.php:303
+msgid "Slides Options"
+msgstr ""
+
+#: ../inovate/admin/layout.php:304
+msgid "Maximum 5 slides with drag and drop sortings."
+msgstr ""
+
+#: ../inovate/admin/layout.php:307
+msgid "Slide Title"
+msgstr ""
+
+#: ../inovate/admin/layout.php:308
+msgid "URL you want to Link."
+msgstr ""
+
+#: ../inovate/admin/layout.php:315
+msgid "Showcase Settings"
+msgstr ""
+
+#: ../inovate/admin/layout.php:321
+msgid "Enable Showcase"
+msgstr ""
+
+#: ../inovate/admin/layout.php:322
+msgid "Tick the checkbox to enable Showcase on homepage."
+msgstr ""
+
+#: ../inovate/admin/layout.php:329
+msgid "Add the items to add to your showcase (only 3)"
+msgstr ""
+
+#: ../inovate/admin/layout.php:335
+msgid "Social Settings"
+msgstr ""
+
+#: ../inovate/admin/layout.php:341
+msgid "Enable Social Icons"
+msgstr ""
+
+#: ../inovate/admin/layout.php:342
+msgid "Tick the checkbox to enable the social icons in the header"
+msgstr ""
+
+#: ../inovate/admin/layout.php:348
+msgid "Social Icon Set"
+msgstr ""
+
+#: ../inovate/admin/layout.php:349
+msgid "Select which Icon Set to display."
+msgstr ""
+
+#: ../inovate/admin/layout.php:362
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:363 ../inovate/admin/layout.php:369
+#: ../inovate/admin/layout.php:375 ../inovate/admin/layout.php:381
+#: ../inovate/admin/layout.php:387 ../inovate/admin/layout.php:393
+#: ../inovate/admin/layout.php:399 ../inovate/admin/layout.php:405
+#: ../inovate/admin/layout.php:411 ../inovate/admin/layout.php:417
+#: ../inovate/admin/layout.php:423 ../inovate/admin/layout.php:429
+#: ../inovate/admin/layout.php:435 ../inovate/admin/layout.php:441
+#: ../inovate/admin/layout.php:447 ../inovate/admin/layout.php:453
+msgid "#"
+msgstr ""
+
+#: ../inovate/admin/layout.php:368
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:374
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:380
+msgid "Instagram URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:386
+msgid "Youtube URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:392
+msgid "RSS URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:398
+msgid "Mail URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:404
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:410
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:416
+msgid "StumbleUpon URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:422
+msgid "Linked In URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:428
+msgid "Flickr URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:434
+msgid "Vine URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:440
+msgid "VKontakte URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:446
+msgid "SoundCloud URL"
+msgstr ""
+
+#: ../inovate/admin/layout.php:452
+msgid "Yelp URL"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/class.redux-plugin.php:410
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/class.redux-plugin.php:412
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:213
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:213
+msgid "Redux Framework"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:217
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:221
+msgid "Options"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:1954
+#: ../inovate/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:530
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:1962
+#: ../inovate/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:531
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:1970
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:1978
+#: ../inovate/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:532
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:1985
+msgid "Please Wait"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:2110
+msgid "Enable"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:2115
+msgid "Disable"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:2121
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:2123
+msgid "clicking"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:2127
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:2132
+msgid "Hints"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:2257
+#: ../twentyfifteen/inc/customizer.php:92
+msgid "Default"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3353
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3404
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3432
+msgid "Expand"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3434
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3744
+msgid "Save Changes"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3438
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3748
+msgid "Reset Section"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3440
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3750
+msgid "Reset All"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3445
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3755
+msgid "Working..."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3465
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3480
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3494
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3508
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3528
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3536
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3544
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3608
+#: ../inovate/admin/redux-framework/ReduxCore/framework.php:3687
+msgid "System Info"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:565
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:566
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:567
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/class.redux_functions.php:253
+msgid "Dismiss"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/debug.php:41
+#: ../inovate/admin/redux-framework/ReduxCore/inc/debug.php:69
+msgid "Options Object"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/import_export.php:140
+msgid "Import / Export"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:124
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/color/field_color.php:72
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:277
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:314
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:193
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:321
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:200
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:114
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:127
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:134
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:141
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:148
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Height"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/select/field_select.php:83
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/select/field_select.php:134
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:254
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:255
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:269
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Style"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Subsets"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Font script"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:336
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:337
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Text Align"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:359
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:360
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:361
+msgid "Text Transform"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:382
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:383
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:384
+msgid "Font Variant"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:403
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:404
+msgid "Text Decoration"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:426
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:427
+#: ../xevent-magazine/biz/custom-customizer.php:105
+#: ../xevent-magazine/biz/custom-customizer.php:144
+#: ../xevents/biz/custom-customizer.php:121
+#: ../xevents/biz/custom-customizer.php:163
+msgid "Font Size"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Size"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:435
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Line Height"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:444
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:445
+msgid "Word Spacing"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:453
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:454
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:472
+#: ../xevent-magazine/biz/custom-customizer.php:37
+#: ../xevent-magazine/biz/settings-data.php:66
+#: ../xevents/biz/custom-customizer.php:52 ../xevents/biz/settings-data.php:67
+msgid "Font Color"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:474
+msgid "Font color"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:864
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:965
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../inovate/admin/redux-framework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../inovate/inc/extras.php:63 ../twentyfourteen/functions.php:495
+#: ../twentythirteen/functions.php:218 ../xevent-magazine/functions.php:230
+#: ../xevents/functions.php:227
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inovate/inc/template-tags.php:101 ../inovate/inc/template-tags.php:107
+#: ../twentythirteen/functions.php:328 ../twentythirteen/functions.php:334
+msgid ", "
+msgstr ""
+
+#: ../inovate/inc/template-tags.php:103 ../inovate/inc/template-tags.php:109
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../inovate/inc/template-tags.php:115
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inovate/inc/template-tags.php:115
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "1 Comment"
+msgstr ""
+
+#: ../inovate/inc/template-tags.php:115
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "% Comments"
+msgstr ""
+
+#: ../magazine/functions.php:103
+msgid "Header Right"
+msgstr ""
+
+#: ../magazine/home.php:87
+msgid "by "
+msgstr ""
+
+#: ../twentyfifteen/archive.php:49 ../twentyfifteen/index.php:46
+#: ../twentyfifteen/search.php:38
+msgid "Previous page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:50 ../twentyfifteen/index.php:47
+#: ../twentyfifteen/search.php:39
+msgid "Next page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:51 ../twentyfifteen/content-link.php:40
+#: ../twentyfifteen/content-page.php:29 ../twentyfifteen/content.php:42
+#: ../twentyfifteen/image.php:63 ../twentyfifteen/index.php:48
+#: ../twentyfifteen/search.php:40
+msgid "Page"
+msgstr ""
+
+#: ../twentyfifteen/author-bio.php:34 ../twentythirteen/functions.php:343
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentyfifteen/content-link.php:31 ../twentyfifteen/content.php:33
+#: ../twentyfifteen/inc/template-tags.php:237
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../twentyfifteen/footer.php:25
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:86
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:133
+msgid "Widget Area"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:135
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../twentyfifteen/functions.php:231
+msgid "expand child menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:232
+msgid "collapse child menu"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentyfourteen/image.php:65
+#: ../xevent-magazine/image.php:94 ../xevents/image.php:95
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentyfourteen/image.php:66
+#: ../xevent-magazine/image.php:95 ../xevents/image.php:96
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfifteen/single.php:33 ../twentyfourteen/functions.php:259
+msgid "Next"
+msgstr ""
+
+#: ../twentyfifteen/single.php:34
+msgid "Next post:"
+msgstr ""
+
+#: ../twentyfifteen/single.php:36 ../twentyfourteen/functions.php:258
+msgid "Previous"
+msgstr ""
+
+#: ../twentyfifteen/single.php:37
+msgid "Previous post:"
+msgstr ""
+
+#: ../twentyfifteen/inc/back-compat.php:37
+#: ../twentyfifteen/inc/back-compat.php:47
+#: ../twentyfifteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:47
+#: ../twentyfifteen/inc/customizer.php:63
+#: ../twentyfifteen/inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:103
+msgid "Dark"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:114
+msgid "Yellow"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:125
+msgid "Pink"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:136
+msgid "Purple"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:147
+msgid "Blue"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:31 ../twentythirteen/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:34 ../twentythirteen/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:37 ../twentythirteen/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/category.php:20 ../twentythirteen/category.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/inc/template-tags.php:219
+#: ../twentythirteen/content-aside.php:16
+#: ../twentythirteen/content-audio.php:27
+#: ../twentythirteen/content-chat.php:26
+#: ../twentythirteen/content-gallery.php:27
+#: ../twentythirteen/content-image.php:26
+#: ../twentythirteen/content-link.php:27
+#: ../twentythirteen/content-quote.php:16
+#: ../twentythirteen/content-status.php:16
+#: ../twentythirteen/content-video.php:26 ../twentythirteen/content.php:44
+#: ../twentythirteen/functions.php:478
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:171 ../xevent-magazine/functions.php:108
+#: ../xevents/functions.php:105
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:173 ../xevent-magazine/functions.php:110
+#: ../xevent-magazine/functions.php:119 ../xevents/functions.php:107
+#: ../xevents/functions.php:116
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:180
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:189 ../xevent-magazine/functions.php:127
+#: ../xevents/functions.php:124
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:191 ../twentythirteen/functions.php:233
+#: ../xevent-magazine/functions.php:129 ../xevents/functions.php:126
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/tag.php:22 ../twentythirteen/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:37
+#: ../twentyfourteen/inc/back-compat.php:47
+#: ../twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:24
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+#: ../twentyfourteen/inc/customizer.php:32
+msgid "May only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:34
+#: ../twentyfourteen/inc/customizer.php:35
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:40
+#: ../twentyfourteen/inc/featured-content.php:403
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:41
+#: ../twentyfourteen/inc/featured-content.php:404
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:56
+msgid "Layout"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:60
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:61
+msgid "Slider"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:105
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:108
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:109
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:110
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:426
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:89
+#: ../xevent-magazine/inc/template-tags.php:86
+#: ../xevents/inc/template-tags.php:87
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:109
+#: ../twentythirteen/functions.php:322
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:54
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "More images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:58
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "More videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:62
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:63
+msgid "More audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:66
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:67
+msgid "More quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:70
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:71
+msgid "More links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:74
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:75
+msgid "More galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:79
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:80
+msgid "More asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:127 ../twentyfourteen/inc/widgets.php:172
+#: ../xevent-magazine/content-aside.php:77
+#: ../xevent-magazine/content-audio.php:69
+#: ../xevent-magazine/content-gallery.php:68
+#: ../xevent-magazine/content-image.php:69
+#: ../xevent-magazine/content-link.php:73
+#: ../xevent-magazine/content-quote.php:69
+#: ../xevent-magazine/content-video.php:71 ../xevent-magazine/content.php:83
+#: ../xevents/content-aside.php:78 ../xevents/content-audio.php:70
+#: ../xevents/content-gallery.php:69 ../xevents/content-image.php:70
+#: ../xevents/content-link.php:74 ../xevents/content-quote.php:70
+#: ../xevents/content-video.php:72 ../xevents/content.php:84
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:206
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:26
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:231
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:241
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:243
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:270
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:274
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:369
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:37
+#: ../twentythirteen/inc/back-compat.php:47
+#: ../twentythirteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../xevent-magazine/archive.php:59 ../xevent-magazine/archive.php:62
+#: ../xevent-magazine/archive.php:65 ../xevents/archive.php:60
+#: ../xevents/archive.php:63 ../xevents/archive.php:66
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../xevent-magazine/comments.php:28 ../xevents/comments.php:29
+msgid "<span class=\"fa fa-angle-double-left\"></span> Older Comments"
+msgstr ""
+
+#: ../xevent-magazine/comments.php:29 ../xevents/comments.php:30
+msgid "Newer Comments <span class=\"fa fa-angle-double-right\"></span>"
+msgstr ""
+
+#: ../xevent-magazine/comments.php:42 ../xevents/comments.php:43
+msgid "Got Something To Say:"
+msgstr ""
+
+#: ../xevent-magazine/comments.php:44 ../xevents/comments.php:45
+msgid "Your Good Name"
+msgstr ""
+
+#: ../xevent-magazine/comments.php:47 ../xevents/comments.php:48
+msgid "Your Email Please"
+msgstr ""
+
+#: ../xevent-magazine/comments.php:52 ../xevents/comments.php:53
+msgid "Comment:"
+msgstr ""
+
+#: ../xevent-magazine/functions.php:39 ../xevents/functions.php:40
+msgid "XEvents Top Primary Menu"
+msgstr ""
+
+#: ../xevent-magazine/functions.php:40 ../xevents/functions.php:41
+msgid "XEvents Max Top Secondary Menu"
+msgstr ""
+
+#: ../xevent-magazine/functions.php:41 ../xevents/functions.php:42
+msgid "XEvents Footer Menu"
+msgstr ""
+
+#: ../xevent-magazine/functions.php:117 ../xevents/functions.php:114
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../xevent-magazine/functions.php:136
+msgid "Xevent Woocommerce Sidebar (Pro Only)"
+msgstr ""
+
+#: ../xevent-magazine/functions.php:138 ../xevents/functions.php:135
+msgid "Appears in the woocommerce section of the site."
+msgstr ""
+
+#: ../xevent-magazine/home.php:155 ../xevent-magazine/home.php:342
+#: ../xevents/home.php:217 ../xevents/home.php:473
+msgid "Please Insert Featured Posts IDs to Display Here !!"
+msgstr ""
+
+#: ../xevent-magazine/home.php:366 ../xevents/home.php:504
+msgid "Sticky Posts"
+msgstr ""
+
+#: ../xevent-magazine/home.php:441 ../xevents/home.php:579
+#: ../xevents/biz/widgets.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: ../xevent-magazine/home.php:639 ../xevents/home.php:883
+msgid "No Posts with Tags to display here !!"
+msgstr ""
+
+#: ../xevent-magazine/home.php:658
+#: ../xevent-magazine/biz/settings-data.php:106 ../xevents/home.php:1168
+#: ../xevents/biz/settings-data.php:107
+msgid "RECENT POSTS CATEGORY"
+msgstr ""
+
+#: ../xevent-magazine/single.php:127 ../xevents/single.php:129
+msgid "Author Bio"
+msgstr ""
+
+#: ../xevent-magazine/single.php:128 ../xevents/single.php:130
+msgid "Latest Posts"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:11
+msgid "Xevent General"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:14
+#: ../xevents/biz/custom-customizer.php:26
+msgid "Links Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:17
+#: ../xevent-magazine/biz/custom-customizer.php:88
+#: ../xevents/biz/custom-customizer.php:29
+#: ../xevents/biz/custom-customizer.php:104
+msgid "Links Hover Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:19
+#: ../xevents/biz/custom-customizer.php:31
+msgid "Links Decoration"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:19
+#: ../xevents/biz/custom-customizer.php:31
+msgid "none"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:19
+#: ../xevents/biz/custom-customizer.php:31
+msgid "underline"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:19
+#: ../xevents/biz/custom-customizer.php:31
+msgid "overline"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:19
+#: ../xevents/biz/custom-customizer.php:31
+msgid "line-through"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:19
+#: ../xevents/biz/custom-customizer.php:31
+msgid "initial"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:19
+#: ../xevents/biz/custom-customizer.php:31
+msgid "inherit"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:27
+#: ../xevents/biz/custom-customizer.php:39
+msgid "Headline Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:32
+#: ../xevents/biz/custom-customizer.php:47
+msgid "Container Bg Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:40
+#: ../xevents/biz/custom-customizer.php:55
+msgid "Font Title Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:43
+#: ../xevents/biz/custom-customizer.php:58
+msgid "Rate Star Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:51
+#: ../xevent-magazine/biz/custom-customizer.php:108
+#: ../xevent-magazine/biz/custom-customizer.php:147
+#: ../xevents/biz/custom-customizer.php:67
+#: ../xevents/biz/custom-customizer.php:127
+#: ../xevents/biz/custom-customizer.php:169
+msgid "Font Style"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:51
+#: ../xevent-magazine/biz/custom-customizer.php:54
+#: ../xevent-magazine/biz/custom-customizer.php:108
+#: ../xevent-magazine/biz/custom-customizer.php:111
+#: ../xevent-magazine/biz/custom-customizer.php:147
+#: ../xevent-magazine/biz/custom-customizer.php:150
+#: ../xevents/biz/custom-customizer.php:67
+#: ../xevents/biz/custom-customizer.php:70
+#: ../xevents/biz/custom-customizer.php:127
+#: ../xevents/biz/custom-customizer.php:130
+#: ../xevents/biz/custom-customizer.php:169
+#: ../xevents/biz/custom-customizer.php:172
+msgid "normal"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:51
+#: ../xevent-magazine/biz/custom-customizer.php:108
+#: ../xevent-magazine/biz/custom-customizer.php:147
+#: ../xevents/biz/custom-customizer.php:67
+#: ../xevents/biz/custom-customizer.php:127
+#: ../xevents/biz/custom-customizer.php:169
+msgid "italic"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:51
+#: ../xevent-magazine/biz/custom-customizer.php:108
+#: ../xevent-magazine/biz/custom-customizer.php:147
+#: ../xevents/biz/custom-customizer.php:67
+#: ../xevents/biz/custom-customizer.php:127
+#: ../xevents/biz/custom-customizer.php:169
+msgid "oblique"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:54
+#: ../xevent-magazine/biz/custom-customizer.php:111
+#: ../xevent-magazine/biz/custom-customizer.php:150
+#: ../xevents/biz/custom-customizer.php:70
+#: ../xevents/biz/custom-customizer.php:130
+#: ../xevents/biz/custom-customizer.php:172
+msgid "Font Weight"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:54
+#: ../xevent-magazine/biz/custom-customizer.php:111
+#: ../xevent-magazine/biz/custom-customizer.php:150
+#: ../xevents/biz/custom-customizer.php:70
+#: ../xevents/biz/custom-customizer.php:130
+#: ../xevents/biz/custom-customizer.php:172
+msgid "bold"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:54
+#: ../xevent-magazine/biz/custom-customizer.php:111
+#: ../xevent-magazine/biz/custom-customizer.php:150
+#: ../xevents/biz/custom-customizer.php:70
+#: ../xevents/biz/custom-customizer.php:130
+#: ../xevents/biz/custom-customizer.php:172
+msgid "bolder"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:54
+#: ../xevent-magazine/biz/custom-customizer.php:111
+#: ../xevent-magazine/biz/custom-customizer.php:150
+#: ../xevents/biz/custom-customizer.php:70
+#: ../xevents/biz/custom-customizer.php:130
+#: ../xevents/biz/custom-customizer.php:172
+msgid "lighter"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:58
+msgid "Xevent Header"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:58
+msgid "Xevent Header Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:61
+#: ../xevents/biz/custom-customizer.php:77
+msgid "Logo Image"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:63
+#: ../xevents/biz/custom-customizer.php:79
+msgid "Logo Margin"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:65
+#: ../xevents/biz/custom-customizer.php:81
+msgid "Logo Padding"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:69
+#: ../xevents/biz/custom-customizer.php:85
+msgid "Header Background Image"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:84
+#: ../xevent-magazine/biz/custom-customizer.php:130
+#: ../xevents/biz/custom-customizer.php:100
+#: ../xevents/biz/custom-customizer.php:149
+msgid "Link Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:92
+#: ../xevent-magazine/biz/custom-customizer.php:124
+#: ../xevent-magazine/biz/settings-data.php:68
+#: ../xevents/biz/custom-customizer.php:108
+#: ../xevents/biz/custom-customizer.php:143
+#: ../xevents/biz/settings-data.php:69
+msgid "Background Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:96
+#: ../xevents/biz/custom-customizer.php:112
+msgid "Menu Background Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:114
+msgid "Xevent Footer"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:121
+#: ../xevents/biz/custom-customizer.php:140
+msgid "Background Image"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:127
+#: ../xevents/biz/custom-customizer.php:146
+msgid "Text Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/custom-customizer.php:133
+#: ../xevents/biz/custom-customizer.php:152
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:10
+#: ../xevent-magazine/biz/settings.php:41 ../xevents/biz/settings-data.php:11
+#: ../xevents/biz/settings.php:37
+msgid "Social Links"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:11
+#: ../xevents/biz/settings-data.php:12
+msgid "Twitter Link"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:12
+#: ../xevents/biz/settings-data.php:13
+msgid "Facebook Link"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:13
+#: ../xevents/biz/settings-data.php:14
+msgid "Google+ Link"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:14
+#: ../xevents/biz/settings-data.php:15
+msgid "Linkedin Link"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:15
+#: ../xevents/biz/settings-data.php:16
+msgid "StumbleUpon Link"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:16
+#: ../xevents/biz/settings-data.php:17
+msgid "Pinterest Link"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:20
+#: ../xevents/biz/settings-data.php:21
+msgid "Post & Archives Meta Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:21
+#: ../xevents/biz/settings-data.php:22
+msgid "Post Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:22
+#: ../xevent-magazine/biz/settings-data.php:112
+#: ../xevents/biz/settings-data.php:23 ../xevents/biz/settings-data.php:113
+msgid "Author Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:23
+#: ../xevents/biz/settings-data.php:24
+msgid "Date Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:24
+#: ../xevent-magazine/biz/settings-data.php:114
+#: ../xevents/biz/settings-data.php:25 ../xevents/biz/settings-data.php:115
+msgid "Categories Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:25
+#: ../xevent-magazine/biz/settings-data.php:115
+#: ../xevents/biz/settings-data.php:26 ../xevents/biz/settings-data.php:116
+msgid "Comments Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:26
+#: ../xevents/biz/settings-data.php:27
+msgid "Tags Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:27
+#: ../xevent-magazine/biz/settings-data.php:117
+#: ../xevents/biz/settings-data.php:28 ../xevents/biz/settings-data.php:118
+msgid "Viewers Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:30
+#: ../xevents/biz/settings-data.php:31
+msgid "Related Posts Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:31
+#: ../xevents/biz/settings-data.php:32
+msgid "Related Posts"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:32
+#: ../xevents/biz/settings-data.php:33
+msgid "Related Posts Box Title"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:33
+#: ../xevents/biz/settings-data.php:34
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:34
+#: ../xevents/biz/settings-data.php:35
+msgid "Display By"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:37
+#: ../xevents/biz/settings-data.php:38
+msgid "Share Post Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:38
+#: ../xevents/biz/settings-data.php:39
+msgid "Show Sharing Icons"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:41
+#: ../xevents/biz/settings-data.php:42
+msgid "Other Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:42
+#: ../xevents/biz/settings-data.php:43
+msgid "Display Author Info"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:43
+#: ../xevents/biz/settings-data.php:44
+msgid "Next/Prev Article Pagination"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:47
+msgid "Review Settings (Premium Version Only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:48
+#: ../xevents/biz/settings-data.php:49
+msgid "Display Review"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:49
+#: ../xevents/biz/settings-data.php:50
+msgid "Review Widget Position"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:50
+#: ../xevent-magazine/biz/settings-data.php:84
+#: ../xevents/biz/settings-data.php:51 ../xevents/biz/settings-data.php:85
+msgid "Include In"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:51
+#: ../xevents/biz/settings-data.php:52
+msgid "Exclude Posts By IDs(14,16,...)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:52
+#: ../xevents/biz/settings-data.php:53
+msgid "Review Header"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:53
+#: ../xevents/biz/settings-data.php:54
+msgid "Review Description"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:54
+#: ../xevents/biz/settings-data.php:55
+msgid "Review Style"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:55
+#: ../xevents/biz/settings-data.php:56
+msgid "Review Scale"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:56
+#: ../xevents/biz/settings-data.php:57
+msgid "User Review"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:59
+#: ../xevent-magazine/biz/settings-data.php:135
+msgid "Elements Settings (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:60
+#: ../xevents/biz/settings-data.php:61
+msgid "Feature Name"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:61
+#: ../xevents/biz/settings-data.php:62
+msgid "Feature Value"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:64
+msgid "Review Skin (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:70
+#: ../xevents/biz/settings-data.php:71
+msgid "Bar Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:71
+#: ../xevents/biz/settings-data.php:72
+msgid "Bar Background Color"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:76
+#: ../xevents/biz/settings-data.php:77
+msgid "Ads Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:77
+#: ../xevents/biz/settings-data.php:78
+msgid "Display Ads"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:78
+#: ../xevents/biz/settings-data.php:79
+msgid "Ad Position"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:79
+#: ../xevents/biz/settings-data.php:80
+msgid "Display in Header"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:80
+#: ../xevents/biz/settings-data.php:81
+msgid "Ad Image"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:81
+#: ../xevents/biz/settings-data.php:82
+msgid "Ad Link"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:82
+#: ../xevents/biz/settings-data.php:83
+msgid "Image Alternative Text"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:83
+#: ../xevents/biz/settings-data.php:84
+msgid "Custom Ads Code"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:85
+#: ../xevents/biz/settings-data.php:86
+msgid "Exclude Posts By IDs(16,14,...)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:89
+#: ../xevents/biz/settings-data.php:90
+msgid "HomePage Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:91
+#: ../xevents/biz/settings-data.php:92
+msgid "HomePage Template"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:92
+msgid "Revolution Slider Alias (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:95
+#: ../xevents/biz/settings-data.php:96
+msgid "Feature Posts"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:96
+#: ../xevents/biz/settings-data.php:97
+msgid "Feature Posts ID(1,2,..)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:99
+#: ../xevents/biz/settings-data.php:100
+msgid "Contents"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:100
+#: ../xevents/biz/settings-data.php:101
+msgid "RECENT POSTS"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:101
+msgid "POPULAR POSTS CATEGORY (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:102
+#: ../xevents/biz/settings-data.php:103
+msgid "POSTS By TAGS"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:103
+msgid "TOP POSTS (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:104
+msgid "LATEST VIDEO POSTS (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:105
+msgid "AUTHOR POSTS  (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:107
+msgid "RECENT IMAGES POSTS (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:110
+#: ../xevents/biz/settings-data.php:111
+msgid "HomePage Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:116
+#: ../xevents/biz/settings-data.php:117
+msgid "Rate Meta"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:121
+msgid "General Slider Settings(Premium Version Only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:122
+#: ../xevents/biz/settings-data.php:123
+msgid "Effect Type"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:123
+#: ../xevents/biz/settings-data.php:124
+msgid "Slider Width"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:124
+#: ../xevents/biz/settings-data.php:125
+msgid "Controle Navigation"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:127
+msgid "Layer Settings (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:128
+#: ../xevent-magazine/biz/settings-data.php:136
+#: ../xevents/biz/settings-data.php:129 ../xevents/biz/settings-data.php:137
+msgid "Slide ID"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:129
+#: ../xevents/biz/settings-data.php:130
+msgid "Image"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:130
+#: ../xevents/biz/settings-data.php:131
+msgid "Thumbnail"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:131
+#: ../xevents/biz/settings-data.php:132
+msgid "Video Link"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:132
+#: ../xevents/biz/settings-data.php:133
+msgid "Pause Time"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:138
+#: ../xevents/biz/settings-data.php:139
+msgid "Caption"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:139
+#: ../xevents/biz/settings-data.php:140
+msgid "Transition Type"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:143
+#: ../xevents/biz/settings-data.php:144
+msgid "Animation Easing"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:144
+#: ../xevents/biz/settings-data.php:145
+msgid "Transition Speed(milliseconds)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:145
+#: ../xevents/biz/settings-data.php:146
+msgid "Caption x position in pixel"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:146
+#: ../xevents/biz/settings-data.php:147
+msgid "Caption y position in pixel"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:147
+#: ../xevents/biz/settings-data.php:148
+msgid "Caption width in pixel"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:148
+#: ../xevents/biz/settings-data.php:149
+msgid "Caption Height in pixel"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:149
+#: ../xevents/biz/settings-data.php:150
+msgid "Caption Class"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:159
+#: ../xevents/biz/settings-data.php:160
+msgid "General Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:160
+#: ../xevents/biz/settings-data.php:161
+msgid "Full Width"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:161
+msgid "Full Width Slider (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:162
+msgid "Rigth To Left (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:163
+#: ../xevents/biz/settings-data.php:164
+msgid "Breaking News"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:164
+#: ../xevents/biz/settings-data.php:165
+msgid "Primary SideBar"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:165
+#: ../xevents/biz/settings-data.php:166
+msgid "Secondary SideBar"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:166
+#: ../xevents/biz/settings-data.php:167
+msgid "Footer Layout"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:167
+#: ../xevents/biz/settings-data.php:168
+msgid "Footer Text"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:170
+#: ../xevent-magazine/biz/settings-data.php:171
+msgid "Background Show Type (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:174
+msgid "Background Gallery Slide Show (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:175
+#: ../xevents/biz/settings-data.php:176
+msgid "Background Image 1"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:176
+#: ../xevents/biz/settings-data.php:177
+msgid "Background Image 2"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:177
+#: ../xevents/biz/settings-data.php:178
+msgid "Background Image 3"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:178
+#: ../xevents/biz/settings-data.php:179
+msgid "Background Image 4"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:179
+#: ../xevents/biz/settings-data.php:180
+msgid "Background Image 5"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:180
+#: ../xevents/biz/settings-data.php:181
+msgid "Background Image 6"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:183
+msgid "Background Video (Pro only)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:184
+#: ../xevents/biz/settings-data.php:185
+msgid "Video Link in Your Server(.mp4,.webm)"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:187
+#: ../xevents/biz/settings-data.php:188
+msgid "Menu Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:188
+#: ../xevents/biz/settings-data.php:189
+msgid "Category Content Display Type"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:189
+#: ../xevents/biz/settings-data.php:190
+msgid "Category Items Number"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:201
+#: ../xevents/biz/settings-data.php:202
+msgid "Layer One Settings"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:202
+#: ../xevents/biz/settings-data.php:203
+msgid "In-Animation Type"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:203
+#: ../xevents/biz/settings-data.php:204
+msgid "Out-Animation Type"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:204
+#: ../xevents/biz/settings-data.php:205
+msgid "Element Fixed"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:205
+#: ../xevents/biz/settings-data.php:206
+msgid "Element Position"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:206
+#: ../xevents/biz/settings-data.php:207
+msgid "Animation Easing In"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:207
+#: ../xevents/biz/settings-data.php:208
+msgid "Animation Easing Out"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:208
+#: ../xevents/biz/settings-data.php:209
+msgid "Animation Time"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:209
+#: ../xevents/biz/settings-data.php:210
+msgid "Animation Delay"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings-data.php:210
+#: ../xevents/biz/settings-data.php:211
+msgid "Animation Step"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings.php:35 ../xevents/biz/settings.php:31
+msgid "General"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings.php:36 ../xevents/biz/settings.php:32
+msgid "Home Page"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings.php:37 ../xevents/biz/settings.php:33
+msgid "XEvents Slider"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings.php:38 ../xevents/biz/settings.php:34
+msgid "Article"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings.php:39 ../xevents/biz/settings.php:35
+msgid "Review"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings.php:40 ../xevents/biz/settings.php:36
+#: ../xevents/biz/widgets.php:1682
+msgid "Ads"
+msgstr ""
+
+#: ../xevent-magazine/biz/settings.php:42 ../xevents/biz/settings.php:38
+msgid "Live Customizer"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:18 ../xevents/biz/widgets.php:130
+msgid "Display Posts Tags"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:19 ../xevents/biz/widgets.php:131
+msgid "Xevents Display Posts Tags"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:24 ../xevents/biz/widgets.php:136
+msgid "10"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:81 ../xevent-magazine/biz/widgets.php:87
+#: ../xevents/biz/widgets.php:476 ../xevents/biz/widgets.php:482
+msgid "Facebook Like"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:82 ../xevents/biz/widgets.php:477
+msgid "Xevents Facebook Like"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:201 ../xevents/biz/widgets.php:699
+msgid "Display Social Icons"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:202 ../xevents/biz/widgets.php:700
+msgid "Xevents Social Icons"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:207 ../xevents/biz/widgets.php:705
+msgid "Social Networks"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:292 ../xevents/biz/widgets.php:790
+msgid "Display Media Stream"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:293 ../xevents/biz/widgets.php:791
+msgid "Xevents Media"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:298 ../xevents/biz/widgets.php:796
+msgid "Media"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:341 ../xevents/biz/widgets.php:839
+msgid "Please specify media url"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:355 ../xevents/biz/widgets.php:853
+msgid "Display Archives"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:356 ../xevents/biz/widgets.php:854
+msgid "Xevents Archives"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:364 ../xevents/biz/widgets.php:862
+msgid "Archives"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:371 ../xevents/biz/widgets.php:869
+msgid "Select Month"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:435 ../xevents/biz/widgets.php:1770
+msgid "Display Single Advertisment Banner"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:436 ../xevents/biz/widgets.php:1771
+msgid "Xevents Single Ad"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:441 ../xevents/biz/widgets.php:1776
+msgid "Single Ad"
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:521 ../xevents/biz/widgets.php:1856
+msgid "Xevents Search Form."
+msgstr ""
+
+#: ../xevent-magazine/biz/widgets.php:522 ../xevents/biz/widgets.php:1857
+msgid "Xevents Search Form"
+msgstr ""
+
+#: ../xevent-magazine/biz/assets/update/update-notifier.php:12
+#, php-format
+msgid ""
+"Check out <a target=\"_blank\" href=\"http://wpmeal.com/xevent_theme/\"> the "
+"Premium Version Of Xevent Theme</a> ( Unlimited HomePages, Live Customizer, "
+"Slider Revolution, Massive Visual Builder..etc) | <a href=\"%1$s\">Hide "
+"Notice</a>"
+msgstr ""
+
+#: ../xevent-magazine/inc/back-compat.php:37
+#: ../xevent-magazine/inc/back-compat.php:47
+#: ../xevent-magazine/inc/back-compat.php:61
+#, php-format
+msgid ""
+"Xevent Theme requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../xevent-magazine/inc/template-tags.php:43
+#: ../xevents/inc/template-tags.php:44
+msgid ""
+"<div class=\"pp_link\"><span class=\"fa fa-angle-double-left\"></"
+"span>Previous Article</div>"
+msgstr ""
+
+#: ../xevent-magazine/inc/template-tags.php:44
+#: ../xevents/inc/template-tags.php:45
+msgid ""
+"<div class=\"np_link\">Next Article<span class=\"fa fa-angle-double-right"
+"\"></span></div>"
+msgstr ""
+
+#: ../xevent-magazine/inc/template-tags.php:88
+#: ../xevents/inc/template-tags.php:89
+msgid ""
+"<div class=\"pp_link\"><span class=\"fa fa-angle-double-left\"></"
+"span>Previous Article</div><span class=\"prev-post\">%title</span>"
+msgstr ""
+
+#: ../xevent-magazine/inc/template-tags.php:89
+#: ../xevents/inc/template-tags.php:90
+msgid ""
+"<div class=\"np_link\">Next Article<span class=\"fa fa-angle-double-right"
+"\"></span></div><span class=\"next-post\">%title</span>"
+msgstr ""
+
+#: ../xevents/functions.php:133
+msgid "XEvent Woocommerce Sidebar"
+msgstr ""
+
+#: ../xevents/home.php:654 ../xevents/biz/settings-data.php:102
+msgid "POPULAR POSTS CATEGORY"
+msgstr ""
+
+#: ../xevents/home.php:902 ../xevents/biz/settings-data.php:104
+msgid "TOP POSTS"
+msgstr ""
+
+#: ../xevents/home.php:953
+msgid "No Rated Posts to display here !!"
+msgstr ""
+
+#: ../xevents/home.php:967
+msgid "LATEST VIDEO"
+msgstr ""
+
+#: ../xevents/home.php:1006
+msgid "No Posts with Video Format to display here !!"
+msgstr ""
+
+#: ../xevents/home.php:1019 ../xevents/biz/settings-data.php:106
+msgid "AUTHOR POSTS"
+msgstr ""
+
+#: ../xevents/home.php:1151
+msgid "No Posts to display here !!"
+msgstr ""
+
+#: ../xevents/home.php:1155
+msgid "No Author to display her posts here !!"
+msgstr ""
+
+#: ../xevents/home.php:1307
+msgid "RECENT IMAGES"
+msgstr ""
+
+#: ../xevents/home.php:1395
+msgid "No Posts with Image Format to display here !!"
+msgstr ""
+
+#: ../xevents/biz/custom-customizer.php:23
+msgid "AllDay General"
+msgstr ""
+
+#: ../xevents/biz/custom-customizer.php:43
+msgid "Skin Color"
+msgstr ""
+
+#: ../xevents/biz/custom-customizer.php:64
+#: ../xevents/biz/custom-customizer.php:124
+#: ../xevents/biz/custom-customizer.php:166
+msgid "Google Font Family"
+msgstr ""
+
+#: ../xevents/biz/custom-customizer.php:74
+msgid "AllDay Header"
+msgstr ""
+
+#: ../xevents/biz/custom-customizer.php:74
+msgid "AllDay Header Settings"
+msgstr ""
+
+#: ../xevents/biz/custom-customizer.php:133
+msgid "AllDay Footer"
+msgstr ""
+
+#: ../xevents/biz/review_sys.php:126
+msgid "Review Summary"
+msgstr ""
+
+#: ../xevents/biz/review_sys.php:149
+msgid "User Rating"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:48
+msgid "Review Settings"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:60 ../xevents/biz/settings-data.php:136
+msgid "Elements Settings"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:65
+msgid "Review Skin"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:93
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:105
+msgid "LATEST VIDEO POSTS"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:108
+msgid "RECENT IMAGES POSTS"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:122
+msgid "General Slider Settings"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:128
+msgid "Layer Settings"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:162
+msgid "Full Width Slider"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:163
+msgid "Rigth To Left"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:171 ../xevents/biz/settings-data.php:172
+msgid "Background Show Type"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:175
+msgid "Background Gallery Slide Show"
+msgstr ""
+
+#: ../xevents/biz/settings-data.php:184
+msgid "Background Video"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:20
+msgid "Display  Recent Posts with AutoScroll"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:21 ../xevents/biz/widgets.php:929
+#: ../xevents/biz/widgets.php:1013
+msgid "Xevents Recent Posts"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:216
+msgid "Display Tweets"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:217
+msgid "Xevents Display Tweets"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:222
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:595
+msgid "Display Autoscroll Google+ Stream"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:596
+msgid "Xevents Google+ Stream"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:601
+msgid "Google+ Stream"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:928
+msgid "Display Recent Posts Slider"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:934
+msgid "Recent Posts Slider"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1012
+msgid "Display Recent Posts Thumbs"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1018
+msgid "Recent Posts Thumbs"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1085
+msgid "Display Category Posts with AutoScroll"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1086
+msgid "Xevents Category Posts"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1091
+msgid "Category Posts"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1214
+msgid "Display Author Posts with AutoScroll"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1215
+msgid "Xevents Author Posts"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1220
+msgid "Author Posts"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1345
+msgid "Display Popular Posts with AutoScroll"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1346
+msgid "Xevents Popular Posts"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1351
+msgid "Popular Posts"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1351
+msgid "5"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1351
+msgid "views"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1465
+msgid "Display Authors Statistics with AutoScroll"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1466
+msgid "Xevents Top Authors"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1471
+msgid "Top Author"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1471
+msgid "rate"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1471
+msgid "bar"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1676
+msgid "Display  Advertisment Banner"
+msgstr ""
+
+#: ../xevents/biz/widgets.php:1677
+msgid "Xevents Ads"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:161
+#: ../xevents/biz/assets/tgm/tgm-callback.php:85
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:162
+#: ../xevents/biz/assets/tgm/tgm-callback.php:86
+msgid "Install Plugins"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:163
+#: ../xevents/biz/assets/tgm/tgm-callback.php:87
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:175
+#: ../xevents/biz/assets/tgm/tgm-callback.php:99
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:177
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1939
+#: ../xevents/biz/assets/tgm/tgm-callback.php:100
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:531
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1287
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1309
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2053
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2053
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/tgm-callback.php:88
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../xevents/biz/assets/tgm/tgm-callback.php:101
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../xevents/biz/assets/update/update-notifier.php:52
+msgid "There is a new version of the "
+msgstr ""
+
+#: ../xevents/biz/assets/update/update-notifier.php:52
+msgid " available"
+msgstr ""
+
+#: ../xevents/biz/assets/update/update-notifier.php:52
+msgid " You have version "
+msgstr ""
+
+#: ../xevents/biz/assets/update/update-notifier.php:54
+msgid "  installed. Update to version "
+msgstr ""
+
+#: ../xevents/inc/back-compat.php:38 ../xevents/inc/back-compat.php:48
+#: ../xevents/inc/back-compat.php:62
+#, php-format
+msgid ""
+"All-Day Theme requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""

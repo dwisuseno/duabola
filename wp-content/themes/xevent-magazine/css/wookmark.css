@@ -1,0 +1,144 @@
+/*!
+  jQuery Wookmark plugin
+  @name jquery.wookmark.js
+  @author Christoph Ono (chri@sto.ph or @gbks)
+  @author Sebastian Helzle (sebastian@helzle.net or @sebobo)
+  @version 1.4.8
+  @date 07/08/2013
+  @category jQuery plugin
+  @copyright (c) 2009-2014 Christoph Ono (www.wookmark.com)
+  @license Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) license.
+*/
+.allday-wookmark{
+  margin: 5px 0 30px 0;
+  position: relative;
+}
+/**
+ * Grid container
+ */
+.tiles_holder {
+  list-style-type: none;
+  position: relative; /** Needed to ensure items are laid out relative to this container **/
+  margin: 0;
+  padding: 0;
+  margin-left: -2.5%;
+}
+
+/**
+ * Grid items
+ */
+.tiles_holder > li {
+  width: 47.2%;
+  border: 0;
+  display: inline-table; /** Hide items initially to avoid a flicker effect **/
+  cursor: pointer;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   margin: 0 0 2.5% 2.5%;
+   position: relative;
+}
+    @media (max-width: 480px) {
+    
+    ul.tiles_holder {
+    margin-left: 0;
+    }
+    .tiles_holder > li {
+    width: 100% !important; /* over-ride all li styles */
+    margin: 0 0 20px;
+    }
+    }
+
+.tiles_holder li.inactive {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.tiles_holder li img {
+  display: block;
+   width: 100%;
+      height: auto;
+	  max-height: 100%;
+    max-width: 100%;
+	padding: 0;
+	margin: auto;
+}
+
+/**
+ * Grid item text
+ */
+.tiles_holder li .title-r12 {
+	color: #494949;
+	font-size: 14px;
+	line-height: 23px;
+	text-align: left;
+	font-weight: normal;
+	margin: 10px 0 5px 0;
+}
+.tiles_holder li a{
+	color:#ccc
+	}
+.tiles_holder li a:hover  {
+	}
+
+.tiles_holder img:hover{
+	opacity:0.7;
+	border:none;
+   } 
+.progress-bar {
+  background-color: #0BC20B;
+  height: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 0;
+  box-shadow: 0 1px 3px rgba(11, 194, 11, 0.2);
+  -webkit-transition: width 0.3s ease-out;
+  -moz-transition: width 0.3s ease-out;
+  -o-transition: width 0.3s ease-out;
+  transition: width 0.3s ease-out;
+}
+.tiles_holder li .title-r12 a{
+	text-decoration: none;
+	font-size: 18px;
+	color: #494949;
+	text-transform: uppercase;
+	font-weight: 500
+	}
+
+
+  .postmodule-012 .post-enterblog{
+	  color: #AAAAAA;
+    font-size: 85%;
+    margin: 20px 0 0;
+	  }
+	  .postmodule-012 .titles_catcher span{
+		  display:inline-block;
+		  
+	  }
+	  .tiles_holder li a.blog-more-link{
+	color: #0066CC;
+    float: left;
+    font-weight: 600;
+    padding: 8px 10px;
+    text-decoration: none;
+	font-size: 90%;
+		  }
+	  span.blog-stars-small{
+		  background: url("../../images/postmodules/stars-small.png") no-repeat scroll left bottom rgba(0, 0, 0, 0);
+    display: block;
+	vertical-align: middle;
+	height:15px;
+    margin-top: 10px;
+    width: 52px;
+		  }
+	span.on_star{
+	 display: block;
+    margin-top: 10px;
+    width: 52px;
+			  }
+  .postmodule-012 .post-textblog{
+	  padding:10px
+	  }
+	  
+  

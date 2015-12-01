@@ -1,0 +1,300 @@
+/*
+* CSS for AllDay Review.
+* AllDay WordPress Theme 
+* Theme URI: http:/www.wpmeal.com/allday
+* Author URI: http://codecanyon.net/user/phpdream
+*/
+
+
+.rating-a .br-widget {
+    height: 52px;
+}
+
+.rating-a .br-widget a {
+    display: block;
+    width: 15px;
+    padding: 5px 0 5px 0;
+    height: 30px;
+    float: left;
+    background-color: #e3e3e3;
+    margin: 1px;
+    text-align: center;
+}
+
+.rating-a .br-widget a.br-active,
+.rating-a .br-widget a.br-selected {
+    background-color: #59a6d6;
+}
+
+.rating-a .br-widget .br-current-rating {
+    font-size: 20px;
+    line-height: 2;
+    float: left;
+    padding: 0 20px 0 20px;
+    color: #646464;
+}
+
+/******* EXAMPLE B *******/
+
+.rating-b .br-widget {
+    height: 25px;
+}
+
+.rating-b .br-widget a {
+    display: block;
+    width: 70px;
+    height: 16px;
+    float: left;
+    background-color: #e3e3e3;
+    margin: 1px;
+}
+
+.rating-b .br-widget a.br-active,
+.rating-b .br-widget a.br-selected {
+    background-color: #59a6d6;
+}
+
+.rating-b .br-widget .br-current-rating {
+    line-height: 1.1;
+    float: left;
+    padding: 0 20px 0 20px;
+    color: #646464;
+}
+
+.rating-b .br-readonly a.br-active,
+.rating-b .br-readonly a.br-selected {
+    background-color: #cbcbcb;
+}
+
+/******* EXAMPLE C *******/
+
+.rating-c .br-widget {
+    height: 52px;
+}
+
+.rating-c .br-widget a {
+    display: block;
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #e3e3e3;
+    margin: 2px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2.2;
+    text-align: center;
+    color: #b6b6b6;
+}
+
+.rating-c .br-widget a.br-active,
+.rating-c .br-widget a.br-selected {
+    background-color: #59a6d6;
+    color: white;
+}
+
+/******* EXAMPLE D *******/
+
+.rating-d .br-widget {
+    height: 52px;
+}
+
+.rating-d .br-widget a {
+    display: block;
+    width: 40px;
+    padding: 5px 0 5px 0;
+    height: 30px;
+    float: left;
+    background-color: white;
+    border-bottom: 2px solid #e3e3e3;
+    color: #646464;
+    margin: 1px;
+    text-decoration: none;
+    line-height: 2.1;
+    text-align: center;
+}
+
+.rating-d .br-widget a span {
+    color: white;
+}
+
+.rating-d .br-widget a.br-active,
+.rating-d .br-widget a.br-selected {
+
+    border-bottom: 2px solid #646464;
+}
+
+.rating-d .br-widget a:hover span,
+.rating-d .br-widget a.br-current span {
+    color: #646464;
+}
+
+/******* EXAMPLE E *******/
+
+.rating-e .br-widget a {
+    padding: 5px;
+    color: #646464;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 3;
+    text-align: center;
+}
+
+.rating-e .br-widget a.br-active {
+    background-color: #e3e3e3;
+    color: #646464;
+}
+
+.rating-e .br-widget a.br-selected {
+    background-color: #59a6d6;
+    color: white;
+}
+
+/******* EXAMPLE F *******/
+
+.rating-f .br-widget {
+    height: 24px;
+}
+
+.rating-f .br-widget a {
+    background: url('../img/star.png');
+    width: 24px;
+    height: 24px;
+    display: block;
+    float: left;
+}
+
+.rating-f .br-widget a:hover,
+.rating-f .br-widget a.br-active,
+.rating-f .br-widget a.br-selected {
+    background-position: 0 24px;
+}
+
+/******* EXAMPLE G *******/
+
+.rating-g .br-widget {
+    height: 25px;
+}
+
+.rating-g .br-widget a {
+    display: block;
+    width: 50px;
+    height: 16px;
+    float: left;
+    background-color: #e3e3e3;
+    margin: 1px;
+}
+
+.rating-g .br-widget a.br-active,
+.rating-g .br-widget a.br-selected {
+    background-color: #59a6d6;
+}
+
+.rating-g .br-widget .br-current-rating {
+    line-height: 1.1;
+    float: left;
+    padding: 0 20px 0 20px;
+    color: #646464;
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio : 1.5),
+(min-resolution: 192dpi) {
+    .rating-f .br-widget a {
+        background: url('../img/star@2x.png');
+        background-size: 24px 48px;
+    }
+}
+
+#content_holder .star-ctr {
+    display: inline-block;
+    position: relative;
+    margin-right:0;
+    direction:ltr
+}
+
+#content_holder  .star-ctr ul {
+    list-style: none outside none;
+    white-space: nowrap;
+    overflow: hidden;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#content_holder .star-fg {
+    top: 0;
+    position: absolute;
+}
+
+#content_holder .star-ctr .star-ele {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+#content_holder .star-ctr a > span {
+    font-size: 1.2em;
+    vertical-align: middle;
+    text-decoration:none
+}
+
+#content_holder .star-bg a > span {
+    color: silver
+}
+
+#content_holder .star-fg a > span {
+    color: #FFF088;
+}
+
+.rating-bar{
+    background:#CCC;
+    padding:0px;
+}
+.rating-bar span{
+    display:block;
+    height:5px;
+}
+.rating-bar, .rating-bar span {
+    border-radius:4px; 
+}
+
+/* Used to color the bars */
+.blue{ background:#2071F7; }
+.red{ background:#F33; }
+
+/* .rate-n, n being the rating from 1 to 10 */
+
+
+
+
+/* CSS3 Animation */
+.animate{
+    animation: progress 2s linear;
+    -moz-animation: progress 2s linear;
+    -webkit-animation: progress 2s linear;
+    -ms-animation: progress 2s linear;
+    -o-animation: progress 2s linear;
+}
+/* Span fills 100% of parent div (.rate-n) which may be 10-100% of the width of black bar (.rating) */
+@-webkit-keyframes progress {
+    from { width:0% }
+to { width:100%; }
+}
+@-moz-keyframes progress {
+    from { width:0% }
+to { width:100%; }
+}
+@-ms-keyframes progress {
+    from { width:0% }
+to { width:100%; }
+}
+@-o-keyframes progress {
+    from { width:0% }
+to { width:100%; }
+}
+@keyframes progress {
+    from { width:0% }
+to { width:100%; }
+}

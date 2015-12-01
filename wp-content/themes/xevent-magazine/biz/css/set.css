@@ -1,0 +1,317 @@
+/*
+* CSS for xevent Settings Page
+* Xevents WordPress Theme 
+* Theme URI: http:/www.wpmeal.com/xevents
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+#biz_slider{ background:#FFF}
+.tabs-left {}
+.tabs-left > .nav-tabs > li,
+.tabs-right > .nav-tabs > li {
+  float: none;
+}
+.tabs-left > .nav-tabs > li > a{ }
+.tabs-left > .nav-tabs > li > a,
+.tabs-right > .nav-tabs > li > a {
+	min-width: 74px;
+	margin-right: 0;
+	margin-bottom: 3px;
+	background: #5C6D78;
+	color: #ffffff;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:700;
+	text-transform:uppercase;
+	-webkit-transition: color 300ms, background-color 300ms;
+	-moz-transition: color 300ms, background-color 300ms;
+	-o-transition: color 300ms, background-color 300ms;
+	transition: color 300ms, background-color 300ms;
+}
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.tabs-left div.control-label{ text-align:left; color:#6C6C6C; font-size:13px; font-family: 'Open Sans', sans-serif; font-weight:700; text-transform:uppercase;}
+.tabs-left .tab-pane{ 
+background:#FFF;
+ }
+ .tab-content > .active{
+	 opacity:0;  /* make things invisible upon start */
+	-webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+	-moz-animation:fadeIn ease-in 1;
+	animation:fadeIn ease-in 1;
+	-webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+	-webkit-animation-duration:0.5s;
+	-moz-animation-duration:0.5s;
+	animation-duration:0.5s;
+	-webkit-animation-delay: 0.1s;
+-moz-animation-delay: 0.1s;
+animation-delay: 0.1s;
+	 }
+.tabs-left > .nav-tabs {
+  float: left;
+  border-right: 1px solid #ddd;
+   margin-top:120px;
+   padding-right:0;
+   position: fixed;
+   border-bottom:none
+}
+.tabs-left .col-sm-2{ width:13%}
+label:before, label:after{-moz-box-sizing:content-box}
+.tabs-left .form-group{ padding:0 0 0 70px; margin-bottom:30px}
+#biz_general{ padding-right:0; padding-left:0}
+.tabs-left .col-sm-6, .tabs-left .col-sm-12{ padding: 0;}
+.tabs-left .setting_head{ 
+background: none repeat scroll 0 0 #E6E6E6;
+    border-bottom: 3px solid #DDDDDD;
+    clear: both;
+    display: table;
+    margin: 0 0 20px;
+    padding: 15px;
+    width: 100%;
+	color:#8F8F8F;
+	font-size:16px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:700;
+	text-transform:uppercase;
+}
+.tabs-left > .nav-tabs > li > a {
+  margin-right: -1px;
+  border-radius:0;
+ 
+}
+
+.tabs-left > .nav-tabs > li > a:hover,
+.tabs-left > .nav-tabs > li > a:focus {
+  border-color: #eeeeee #dddddd #eeeeee #eeeeee;
+  background:#1D465A
+}
+
+.tabs-left > .nav-tabs .active > a,
+.tabs-left > .nav-tabs .active > a:hover,
+.tabs-left > .nav-tabs .active > a:focus {
+  border-color: #ddd transparent #ddd #ddd;
+  *border-right-color: #ffffff;
+}
+.midday_logo{
+	background: url("../images/wpmeal.png") no-repeat scroll center 15px #FFFFFF;
+    display: block;
+    height: 200px;
+    margin-top: 20px;
+    position: fixed;
+    width: 200px;
+    z-index: 0;
+	}
+.tabs-left .form-control {border-radius:0; margin-top:10px}
+/* The CSS */
+.tabs-left select.form-control {
+    -moz-appearance: none;
+    background: url("../images/down-arrow.png") no-repeat scroll right center, -moz-linear-gradient(center top , #FBFBFB 0%, #F0F0F0 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: auto;
+    line-height: 15px;
+    text-indent: 0.01px;
+    text-overflow: "";
+    width: 100%;
+}
+.tabs-left label{ display:block}
+.tabs-left select{
+background: none repeat scroll 0 0 #FBFBFB;
+    border: 1px solid #E5E5E5;
+    box-shadow: 1px 1px 2px rgba(200, 200, 200, 0.2) inset;
+    color: #8C8C8C;
+    height: 25px;
+    line-height: 15px;
+    margin-bottom: 16px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 5px 0 5px 5px;
+    width: 100%;
+	font-size:13px;
+	font-weight:normal;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:700;
+}
+.tabs-left .tab-content{ 
+position:relative;
+margin-left:200px;
+background:#FFF;
+margin-top: 20px;
+min-height: 600px;}
+.tabs-left select.form-control:focus{border: 1px solid #CCC; box-shadow:none}
+.tabs-left .form-group input[type="text"]:focus{border: 1px solid #F22; box-shadow:none}
+.form-group .biz_select_images{
+	background: none repeat scroll 0 0 #F7F7F7;
+    border-color: #CCCCCC;
+    box-shadow: 0 1px 0 #FFFFFF inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+    color: #555555;
+    vertical-align: top;
+	-moz-box-sizing: border-box;
+    border-radius: 1px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    height: 28px;
+    line-height: 26px;
+    margin: 10px 0;
+    padding: 0 10px 1px;
+    text-decoration: none;
+    white-space: nowrap;
+	}
+
+
+	#slider-fslayer-add, #slider-flayer-add, #review-revf-add{
+	background: none repeat scroll 0 0 #F7F7F7;
+    border-color: #CCCCCC;
+    color: #555555;
+    vertical-align: top;
+	-moz-box-sizing: border-box;
+    border-radius: 1px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: table;
+    font-size: 13px;
+    height: 28px;
+    line-height: 26px;
+    margin: 0 auto 20px auto;
+    padding: 0 40px 1px;
+    text-decoration: none;
+    white-space: nowrap;
+	
+	}
+	#slider-fslayer-add, #slider-flayer-add, #review-revf-add{
+		background:url("../images/plus.png") no-repeat scroll 15px 3px #F7F7F7;
+		
+		}
+.form-group .biz_select_images a:focus{ text-decoration:none;}
+.mvb_image_delete{
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.2);
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    height: 20px;
+    line-height: 15px;
+    padding: 2px;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+    width: 20px;
+	}	
+.form-group	.btn-primary{ margin-top:30px}
+.clear_b{ clear:both; width:100%; height:2px; background:#CCC}
+.tabs-left .form-horizontal .slider-fslayer-add-div, .tabs-left .form-horizontal .slider-flayer-add-div, .tabs-left .form-horizontal .review-revf-add-div{
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+	opacity:0;  /* make things invisible upon start */
+	-webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+	-moz-animation:fadeIn ease-in 1;
+	animation:fadeIn ease-in 1;
+	-webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+	-webkit-animation-duration:0.5s;
+	-moz-animation-duration:0.5s;
+	animation-duration:0.5s;
+	-webkit-animation-delay: 0.1s;
+-moz-animation-delay: 0.1s;
+animation-delay: 0.1s;
+	}
+.tabs-left .input_styled{ margin-top:10px;}
+
+
+
+
+
+/*****************slider  elements  ******************/
+.gridly-content {
+	width: 980px;
+	margin: 80px auto;
+}
+.gridly-button {
+	display: block;
+	padding: 20px;
+	width: 200px;
+	color: white;
+	background: #888888;
+	margin: 20px 0;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 4px;
+}
+.brick {
+	opacity: 1;
+	cursor: pointer;
+	position: relative;
+	background: #aad2df;
+	float: left;
+	margin: 0;
+}
+.brick .mvb_delete_inline {
+	display: block;
+	color: white;
+	background-color: rgba(255, 255, 255, 0.2);
+	width: 40px;
+	height: 40px;
+	top: 0;
+	right: 0;
+	position: absolute;
+	text-align: center;
+	line-height: 35px;
+}
+.brick.small {
+	color: #FFF;
+	width: 100%;
+	padding: 8px 0;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 600;
+	padding: 8px 0;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.brick.large {
+	width: 300px;
+	height: 300px;
+}
+.brick.dragging {
+	opacity: 0.8;
+}
+.mvb_barname {
+	background-image: url("../images/down.png");
+	background-position: 61% center;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.mvb_main_inline {
+	margin: 0;
+	padding: 8px 0 0 30px;
+}
+#mvb_addnew_inline {
+	background: #BEBEBE;
+	background-image: url("../images/admin-icon/plus.png");
+	background-position: 15% center;
+	background-repeat: no-repeat;
+	margin-bottom: 10px;
+	width: 40%;
+}
+
+
+
+
+/*****************slider  elements  ******************/
+.divider_set{background:url("../../images/pattern.png") repeat scroll 0 bottom #CACACA; display:block; height:15px}
